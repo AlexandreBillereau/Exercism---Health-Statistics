@@ -1,3 +1,5 @@
+# :white_check_mark: SUCCESS :white_check_mark:
+
 # Health Statistics
 
 Welcome to Health Statistics on Exercism's Rust Track.
